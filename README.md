@@ -8,7 +8,7 @@
 
 ## 效果参考
 
-| Rawr | Quiet |
+| pic1 | pic2 |
 | :---: | :---: |
 | <img width="1536" height="2048" alt="Codex 图像 2026年8月25日 18_41_45" src="https://github.com/user-attachments/assets/959b3e12-6777-4c1a-b0c9-047c62dc2cfb" />|<img width="1536" height="2048" alt="Codex 图像 2026年8月24日 18_57_12" src="https://github.com/user-attachments/assets/6a441804-bd27-4f4a-99af-0119ebb85d2b" />|
 
