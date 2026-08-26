@@ -1,0 +1,7 @@
+interface:
+  display_name: "Poetic Collage Grid JL — Paper"
+  short_description: "生成真实打字机油墨、纸纤维撕边与电影胶片质感诗意二宫格"
+  default_prompt: "Use $poetic-collage-grid-jl-paper to create a 3:4 paper-print diptych with authentic typewriter ink, subtle cellulose torn edges, a cinematic lower photo, and one centered English poem."
+
+policy:
+  allow_implicit_invocation: true
